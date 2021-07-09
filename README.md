@@ -9,5 +9,5 @@ Getzit is a inventory/stock notifier that strives to give users an oppurtunity t
 - *Jenna Pedro*  ( [itsjennaz](https://Github.com/itsjennaz) )
 - *Kameron Dailey*  ( [M-K-D](https://Github.com/m-k-d) )
 - *Katarina Marsteller* ( [kdm423](https://Github.com/kdm423) )
-- *Salvador Galan*
+- *Salvador Galan* ( [SalGalan](https://Github.com/SalGalan) )
  
